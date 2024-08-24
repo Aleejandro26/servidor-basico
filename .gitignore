@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Archivos de configuración de entorno
+.env
+
+# Archivos de log
+*.log
+
+# Directorios y archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de instalación específicos del entorno
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de test y cobertura de pruebas
+coverage/
+
+# Configuración de editor de código
+.vscode/
+.idea/
+
+# Archivos temporales de sistema
+*.tmp
+*.swp
+*.swo
+
